@@ -44,7 +44,7 @@ Lab5之後才慢慢掌握好的coding的技巧
   Lab8通常會是power的設計，但我們那學期調整到了Lab10，因此Lab8變成了system verilog。  
   System verilog的題目在設計上似乎都不會太難，只是條件比較多，看起來會比較複雜。  
   主要我認為可以節省的是面積的部分，可以將某些特定的變數提取出來(通常是combinational的變數)，會讓你的整個程式變得比較簡潔、易懂。  
-  (詳細可以看我PPT內容) 
+  (詳細可以看我pdf內容)(Lab8_design_sharing.pdf)   
   因為前面的人抄襲，所以意外撿到了bestcode XD
   Rank : 4/96
 
