@@ -7,6 +7,9 @@ Rank : 1/92   ( 我的排名 / 原始成績60分以上人數)
 前四次的Lab寫得並不是特別好，coding style 還有蠻多可以進步的空間  
 Lab5之後才慢慢掌握好的coding的技巧  
 所以看Lab5之後的比較有學習及參考價值 XD
+
+我們這學期比較特殊，每個Lab有大約10天的時間可以完成，但一樣每周三會出新的lab，時間變長的同時，難度也跟著提升...  
+但一周會有兩個lab 時程overlap。 靠近期中的時候有 兩個lab、Midterm exam、 Midterm project OAO  
   
 (以下 Rank : 我的排名/通過Lab的總人數)    
 
